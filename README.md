@@ -31,7 +31,7 @@ This project uses Regex pattern matching and a Simple Hash Table traversal to do
 
 ## Linter in Action
 
-![ADF Linter In Action](images/adf_checker_in_action.gif)
+![ADF Linter In Action](images/adf_linter_in_action.gif)
 
 ## Quick Start
 
